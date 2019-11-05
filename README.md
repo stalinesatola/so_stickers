@@ -15,10 +15,15 @@ Você pode baixar os pacotes que você gosta em nossa Loja e enviar os adesivos 
 Agradecimentos:
 
 https://github.com/WhatsApp/stickers
+
 https://github.com/vidit135g/Sticker-Central
+
 https://www.freepik.com
+
 https://clashroyale.fandom.com/wiki/Emotes
+
 https://www.online-convert.com/
+
 https://www.flaticon.com
 
 
